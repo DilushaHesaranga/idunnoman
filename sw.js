@@ -2,8 +2,8 @@ const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/styles.css',
-  '/app.js',
+  '/styles/style.css',
+  '/scripts/script.js',
   '/favicons/android-icon-36x36.png',
   '/favicons/android-icon-36x36.png'
 ];
